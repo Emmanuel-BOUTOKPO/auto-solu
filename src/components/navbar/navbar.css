@@ -1,0 +1,31 @@
+.cars{
+    font-size: 3rem;
+    color: #4a4a4a;
+}
+
+.svg{
+    width: 21px;
+    height: 21px;
+    color: #000000d2!important;
+}
+
+.navbar-brand {
+    color: #4a4a4a;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+#number-of-products{
+    position: absolute;
+    top: -6px;
+    right: 16px;
+    color: #f7444e;
+}
+
+.nav-link{
+    position: relative;
+}
+
+.header_section{
+    background-color: #fff;
+}

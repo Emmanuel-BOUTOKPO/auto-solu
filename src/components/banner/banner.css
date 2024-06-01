@@ -1,0 +1,44 @@
+.textbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-1{
+    font-size: 66px;
+}
+
+.text-2{
+    font-size: 25px;
+    margin-bottom: 1rem;
+}
+
+.form-search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.df {
+    background: #fff;
+    border: solid #ccc 1px;
+    padding: 15px 15px;
+    width: 52%;
+    font-size: 14px;
+    border-radius: 7px;
+    outline: none;
+    margin-bottom: 0px; 
+    text-transform: capitalize;
+    line-height: normal;
+}
+
+.bn{
+    background: transparent linear-gradient(51deg, #00D547 0%, #00D547 50%, #2E8D00 100%) 0% 0% no-repeat padding-box;
+    padding: 11px;
+    font-size: 1rem;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+}
